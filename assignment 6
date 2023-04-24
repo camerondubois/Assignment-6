@@ -45,8 +45,9 @@ Using NCBI:
 17.) Which cow chromosome is the longest? Chromosome 1 
 
 18.) How many proteins are annotated on chromosome 2 in the assembly:  Bos taurus ARS-UCD1.3? 2,748
-
-19.) If I am interested in learning more about the gene associate with the transcript: NM_001104822, what is a good publication to read on PubMed? A whole-genome assembly of the domestic cow, Bos taurus (https://pubmed.ncbi.nlm.nih.gov/19393038/)
+ 
+19.) If I am interested in learning more about the gene associate with the transcript: NM_001104822, what is a good publication to read on PubMed?
+https://pubmed.ncbi.nlm.nih.gov/28944589/
 
 20.) What is the translated coding sequence of NM_00110482? MDLLAKASVLLLLLLSLSNAQTDNMEEAENGSSKEEIDESELED
                      VSSIIFRMNNNSMEELLEGDLVLPKTRNAMKCFGAPDSCRWPKSSNGIVKVPYVVSDN
